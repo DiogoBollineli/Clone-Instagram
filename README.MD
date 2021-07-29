@@ -1,4 +1,4 @@
 # Olá, tudo bem? :wave:
 
-###### esse é repositório de um projeto de clonagem da tela de login do Instagram :camera:  
+###### esse é o repositório de um projeto de clonagem da tela de login do Instagram :camera:  
 
